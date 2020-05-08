@@ -1,2 +1,2 @@
 # vsc-test
-Testing VSC spaces
+VSC spaces are great!
